@@ -12,7 +12,7 @@ Hi, I'm **Sarah Young**, a passionate **Computer Science student** dedicated to 
 ---
 
 ### Featured Projects
-- [Pharmacy Project](https://github.com/sarah-young-cs/Pharmacy-Project): A pet adoption platform for Orlando shelters.
+- [Simulated Pharmacy](https://github.com/sarah-young-cs/Pharmacy-Project): A system simulating the drug distribution component of a pharmacy 
 - [Furrever Home](https://github.com/sarah-young-cs/FurreverHome): A pet adoption platform for Orlando shelters. 
 - [Keep Pinellas Beautiful Website](https://www.kpbcares.org/): SEO and content optimization for environmental initiatives.
 
