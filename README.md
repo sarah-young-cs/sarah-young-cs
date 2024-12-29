@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**sarah-young-cs/sarah-young-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Sarah Young**, a passionate **Computer Science student** dedicated to making an impact in the world of **technology**! 🚀 
 
-Here are some ideas to get you started:
+- 🏫 Studying at: Rollins College | BA in Computer Science
+- 💻 Tech Stack: Java, Python, C, JavaScript, HTML, CSS
+- 🌟 Fun Fact: I'm a softball player and enjoy combining teamwork on and off the field!
+- 📫 Connect with me: 
+  - [LinkedIn](https://www.linkedin.com/in/sarah-young-cs/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### Featured Projects
+- [Pharmacy Project](https://github.com/sarah-young-cs/Pharmacy-Project): A pet adoption platform for Orlando shelters.
+- [Furrever Home](https://github.com/sarah-young-cs/FurreverHome): A pet adoption platform for Orlando shelters. 
+- [Keep Pinellas Beautiful Website](https://www.kpbcares.org/): SEO and content optimization for environmental initiatives.
+
+---
+
+Thanks for stopping by! 😊
+
